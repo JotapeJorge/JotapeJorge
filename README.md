@@ -1,6 +1,8 @@
 # Jotapê Jorge
 ## About Me
-I am a data-driven journalist based in Brazil with a passion for technology, and programming. Recently, I have gained a strong understanding strong experience in Python (Pandas, PySpark, NumPy, Matplotlib, Seaborn, and Scikit-Learn) and SQL (PostgreSQL, MySQL, SQL Server, Oracle). I'm also proficient in JavaScript, CSS, and Git. I am particularly interested in the field of data science and hope to make a career transition into this area.
+I'm a data-driven journalist based in Brazil with a passion for technology, and programming. I'm experienced in Python (Pandas, PySpark, NumPy, Matplotlib, Seaborn, and Scikit-Learn) and SQL (PostgreSQL, MySQL, SQL Server, Oracle) Tableu and Power BI. I'm also proficient in JavaScript, HTML and CSS, and Git.
+
+Feel free to explore my GitHub page, and perhaps we could grab a (virtual) coffee sometime!
 
 ## My GitHub
 On my GitHub, you will find projects that reflect my interests and expertise. I am particularly proud of my work with Python, which showcases my skills in Pandas and other data analysis  tools.
